@@ -6,3 +6,4 @@
 ### Estruturas:
 
 * Linked List
+* Stack
